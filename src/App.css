@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: 'Arial';
+  font-size: 72px;
+  color: #0ccac4;
+  text-align: center;
+}
